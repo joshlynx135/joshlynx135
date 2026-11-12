@@ -10,8 +10,8 @@
 ![](https://github-profile-trophy.vercel.app/?username=joshlynx135&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=joshlynx135&limit=5&theme=dark&combine_all_yearly_contributions=true)
----
+[![Readme Card](https://my-github-stats-azure-one.vercel.app/api/pin/?username=joshlynx135&repo=gym-backend-java&cache_seconds=86400&theme=highcontrast)](https://github.com/joshlynx135/gym-backend-java)
+[![Readme Card](https://my-github-stats-azure-one.vercel.app/api/pin/?username=joshlynx135&repo=GraphicEditor&cache_seconds=86400&theme=highcontrast)](https://github.com/joshlynx135/GraphicEditor)---
 [![](https://komarev.com/ghpvc/?username=joshlynx135&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
